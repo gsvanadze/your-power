@@ -1,0 +1,18 @@
+{
+  "usersList": [
+    {
+      "userName": "SuperAdmin@gmail.com",
+      "password": "SuperAadmin123"
+    },
+    {
+      "userName": "SupsderAdmin@gmail.com",
+      "password": "SuperAadmin1234",
+      "name": "Nika",
+      "surname": "Urumashvili"
+    },
+    {
+      "userName": "SuperAdmin@gmdail.com",
+      "password": "urumashvili"
+    }
+  ]
+}
