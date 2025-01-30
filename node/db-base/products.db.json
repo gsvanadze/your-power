@@ -1,8 +1,133 @@
 {
   "productsList": [
     {
-      "name": "Nika",
-      "quantity": 23
+      "productType": "T-shirt",
+      "productName": "TOMMY HILFIGER",
+      "categoryType": "men",
+      "category": "cloth",
+      "images": [
+        "https://scontent.ftbs10-1.fna.fbcdn.net/v/t39.30808-6/475408011_3829671087294534_6746511584380231793_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=j1b9eDmwKgoQ7kNvgGjMzP3&_nc_oc=AdhH0P2oWQOWBjpjtZ0u-zFU27zGjTQZbaa_zjv2KUChD-GAdVlwZcEjk6jy5HlvObY&_nc_zt=23&_nc_ht=scontent.ftbs10-1.fna&_nc_gid=AmNquMbmKVzHRTo8UfR5XbT&oh=00_AYA9tiW9DA08gg5i0Em8bbWS153ntfltz9H3R8qFuAJtgQ&oe=67A16403",
+        "https://scontent.ftbs10-1.fna.fbcdn.net/v/t39.30808-6/475408011_3829671087294534_6746511584380231793_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=j1b9eDmwKgoQ7kNvgGjMzP3&_nc_oc=AdhH0P2oWQOWBjpjtZ0u-zFU27zGjTQZbaa_zjv2KUChD-GAdVlwZcEjk6jy5HlvObY&_nc_zt=23&_nc_ht=scontent.ftbs10-1.fna&_nc_gid=AmNquMbmKVzHRTo8UfR5XbT&oh=00_AYA9tiW9DA08gg5i0Em8bbWS153ntfltz9H3R8qFuAJtgQ&oe=67A16403"
+      ],
+      "sizes": [
+        "xs",
+        "s",
+        "m",
+        "l",
+        "xl",
+        "xxl"
+      ],
+      "type": "discounts",
+      "price": "150",
+      "productCurrency": "GEL",
+      "quantity": 23,
+      "productDescription": "საბეჭდი და ტიპოგრაფიული ინდუსტრიის უშინაარსო ტექსტია. იგი სტანდარტად 1500-იანი წლებიდან იქცა, როდესაც უცნობმა მბეჭდავმა ამწყობ დაზგაზე წიგნის საცდელი ეგზემპლარი დაბეჭდა. მისი ტექსტი არამარტო 5 საუკუნის"
+
+    },
+    {
+      "productType": "Jeans Pants",
+      "productName": "Topshop",
+      "categoryType": "women",
+      "category": "cloth",
+      "images": [
+        "https://scontent.ftbs10-1.fna.fbcdn.net/v/t39.30808-6/475538590_3829764550618521_2152228913797763181_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=SDwnKjBmigsQ7kNvgGioXjh&_nc_oc=AdieuMNLfY2pmh20IaxbGZDtp5hHo0PcX3TgJE1nm7C4X1ECHY5zXoLhTlMrzlXOTok&_nc_zt=23&_nc_ht=scontent.ftbs10-1.fna&_nc_gid=AHvyyREjLDyWdcoDOhP1kmr&oh=00_AYAhMj60tBui9LHXcNRDo6Qp9ftqU_vfcw_9bXcsjWFuLg&oe=67A179AB",
+        "https://scontent.ftbs10-1.fna.fbcdn.net/v/t39.30808-6/475408011_3829671087294534_6746511584380231793_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=j1b9eDmwKgoQ7kNvgGjMzP3&_nc_oc=AdhH0P2oWQOWBjpjtZ0u-zFU27zGjTQZbaa_zjv2KUChD-GAdVlwZcEjk6jy5HlvObY&_nc_zt=23&_nc_ht=scontent.ftbs10-1.fna&_nc_gid=AmNquMbmKVzHRTo8UfR5XbT&oh=00_AYA9tiW9DA08gg5i0Em8bbWS153ntfltz9H3R8qFuAJtgQ&oe=67A16403"
+      ],
+      "sizes": [
+        "s",
+        "m",
+        "l",
+        "xxl"
+      ],
+      "type": "new-collection",
+      "price": "90",
+      "productCurrency": "GEL",
+      "quantity": 5,
+      "productDescription": "საბეჭდი და ტიპოგრაფიული ინდუსტრიის უშინაარსო ტექსტია. იგი სტანდარტად 1500-იანი წლებიდან იქცა, როდესაც უცნობმა მბეჭდავმა ამწყობ დაზგაზე წიგნის საცდელი ეგზემპლარი დაბეჭდა. მისი ტექსტი არამარტო 5 საუკუნის"
+
+    },
+
+    {
+      "productType": "Hand bag",
+      "productName": "ASOS DESIGN",
+      "categoryType": "women",
+      "category": "accessor",
+      "images": [
+        "https://scontent.ftbs10-1.fna.fbcdn.net/v/t39.30808-6/475771869_3829055820689394_6940018456082087259_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=-j7f2UetyYYQ7kNvgEEwzPG&_nc_oc=AdiIx_Wt3_xAkpElFmNKNmSzp2x8yo7itv48VYGX4y1ncqxxEJWtwJVBFQ52kSfyccU&_nc_zt=23&_nc_ht=scontent.ftbs10-1.fna&_nc_gid=An9aCPrBnhLGVlqIyBB-dGf&oh=00_AYC6fbt-8GEnFc4aSLuJAzpsQeAAV66cXtHaQFfb9sBzBw&oe=67A15459"
+
+      ],
+      "sizes": [],
+      "type": "new-collection",
+      "price": "70",
+      "productCurrency": "GEL",
+      "quantity": 3,
+      "productDescription": "საბეჭდი და ტიპოგრაფიული ინდუსტრიის უშინაარსო ტექსტია. იგი სტანდარტად 1500-იანი წლებიდან იქცა, როდესაც უცნობმა მბეჭდავმა ამწყობ დაზგაზე წიგნის საცდელი ეგზემპლარი დაბეჭდა. მისი ტექსტი არამარტო 5 საუკუნის"
+
+    },
+    {
+      "productType": "Hand bag",
+      "productName": "ASOS DESIGN",
+      "categoryType": "women",
+      "category": "accessor",
+      "images": [
+        "https://scontent.ftbs10-1.fna.fbcdn.net/v/t39.30808-6/475771869_3829055820689394_6940018456082087259_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=-j7f2UetyYYQ7kNvgEEwzPG&_nc_oc=AdiIx_Wt3_xAkpElFmNKNmSzp2x8yo7itv48VYGX4y1ncqxxEJWtwJVBFQ52kSfyccU&_nc_zt=23&_nc_ht=scontent.ftbs10-1.fna&_nc_gid=An9aCPrBnhLGVlqIyBB-dGf&oh=00_AYC6fbt-8GEnFc4aSLuJAzpsQeAAV66cXtHaQFfb9sBzBw&oe=67A15459"
+
+      ],
+      "sizes": [],
+      "type": "new-collection",
+      "price": "70",
+      "productCurrency": "GEL",
+      "quantity": 3,
+      "productDescription": "საბეჭდი და ტიპოგრაფიული ინდუსტრიის უშინაარსო ტექსტია. იგი სტანდარტად 1500-იანი წლებიდან იქცა, როდესაც უცნობმა მბეჭდავმა ამწყობ დაზგაზე წიგნის საცდელი ეგზემპლარი დაბეჭდა. მისი ტექსტი არამარტო 5 საუკუნის"
+
+    },
+    {
+      "productType": "Sport shoes",
+      "productName": "ADIDAS",
+      "categoryType": "men",
+      "category": "shoes",
+      "images": [
+        "https://scontent.ftbs10-1.fna.fbcdn.net/v/t39.30808-6/475306895_3829617657299877_5210811162431625215_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=vwtjtJx2J5EQ7kNvgFT1ue_&_nc_oc=Adh-UWZIvH8Qs-i_rcC_kQWQQjjiju6v9NPtfqa8veFLs6UPwoDkzv_vLY2v1YDqU0c&_nc_zt=23&_nc_ht=scontent.ftbs10-1.fna&_nc_gid=AKquQ2OIRxNAP3mxivwQp11&oh=00_AYDdtZm_W9W-PY1LOC8YxafGpB_4yrcGR9TD9HyhtpJfvQ&oe=67A16BDD",
+        "https://scontent.ftbs10-1.fna.fbcdn.net/v/t39.30808-6/475306895_3829617657299877_5210811162431625215_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=vwtjtJx2J5EQ7kNvgFT1ue_&_nc_oc=Adh-UWZIvH8Qs-i_rcC_kQWQQjjiju6v9NPtfqa8veFLs6UPwoDkzv_vLY2v1YDqU0c&_nc_zt=23&_nc_ht=scontent.ftbs10-1.fna&_nc_gid=AKquQ2OIRxNAP3mxivwQp11&oh=00_AYDdtZm_W9W-PY1LOC8YxafGpB_4yrcGR9TD9HyhtpJfvQ&oe=67A16BDD"
+      ],
+      "sizes": [
+        "36",
+        "37.5",
+        "39",
+        "40.5",
+        "41",
+        "42"
+      ],
+      "type": "mostViewed",
+      "price": "200",
+      "productCurrency": "GEL",
+      "quantity": 15,
+      "productDescription": "საბეჭდი და ტიპოგრაფიული ინდუსტრიის უშინაარსო ტექსტია. იგი სტანდარტად 1500-იანი წლებიდან იქცა, როდესაც უცნობმა მბეჭდავმა ამწყობ დაზგაზე წიგნის საცდელი ეგზემპლარი დაბეჭდა. მისი ტექსტი არამარტო 5 საუკუნის"
+
+    },
+    {
+      "productType": "Sport shoes",
+      "productName": "asodia",
+      "categoryType": "men",
+      "category": "shoes",
+      "images": [
+        "https://scontent.ftbs10-1.fna.fbcdn.net/v/t39.30808-6/475306895_3829617657299877_5210811162431625215_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=vwtjtJx2J5EQ7kNvgFT1ue_&_nc_oc=Adh-UWZIvH8Qs-i_rcC_kQWQQjjiju6v9NPtfqa8veFLs6UPwoDkzv_vLY2v1YDqU0c&_nc_zt=23&_nc_ht=scontent.ftbs10-1.fna&_nc_gid=AKquQ2OIRxNAP3mxivwQp11&oh=00_AYDdtZm_W9W-PY1LOC8YxafGpB_4yrcGR9TD9HyhtpJfvQ&oe=67A16BDD",
+        "https://scontent.ftbs10-1.fna.fbcdn.net/v/t39.30808-6/475306895_3829617657299877_5210811162431625215_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=vwtjtJx2J5EQ7kNvgFT1ue_&_nc_oc=Adh-UWZIvH8Qs-i_rcC_kQWQQjjiju6v9NPtfqa8veFLs6UPwoDkzv_vLY2v1YDqU0c&_nc_zt=23&_nc_ht=scontent.ftbs10-1.fna&_nc_gid=AKquQ2OIRxNAP3mxivwQp11&oh=00_AYDdtZm_W9W-PY1LOC8YxafGpB_4yrcGR9TD9HyhtpJfvQ&oe=67A16BDD"
+      ],
+      "sizes": [
+        "36",
+        "37.5",
+        "39",
+        "40.5",
+        "41",
+        "42"
+      ],
+      "type": "mostViewed",
+      "price": "200",
+      "productCurrency": "GEL",
+      "quantity": 15,
+      "productDescription": "საბეჭდი და ტიპოგრაფიული ინდუსტრიის უშინაარსო ტექსტია. იგი სტანდარტად 1500-იანი წლებიდან იქცა, როდესაც უცნობმა მბეჭდავმა ამწყობ დაზგაზე წიგნის საცდელი ეგზემპლარი დაბეჭდა. მისი ტექსტი არამარტო 5 საუკუნის"
+
     }
   ]
 }

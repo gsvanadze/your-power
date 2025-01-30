@@ -13,6 +13,14 @@
     {
       "userName": "SuperAdmin@gmdail.com",
       "password": "urumashvili"
+    },
+    {
+      "userName": "SuperGiga@mail.ge",
+      "password": "SuperAadmin1234",
+      "name": "Giga",
+      "Surname": "Svanadze",
+      "Age": 32,
+      "Postition": "Angualr Developer"
     }
   ]
 }
