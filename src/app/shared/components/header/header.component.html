@@ -1,0 +1,60 @@
+<div class="container" [ngClass]="{'hidden': isHidden && activeHeaderNav() === 0}">
+  <div class="logo" [routerLink]="''">
+    <img class="cursor-pointer" [src]="'assets/images/YP-White.png'" alt="Logo" height="64" width="64">
+  </div>
+
+  <ul class="categories">
+    <li class="category"
+        [routerLinkActive]="'active-route'"
+        (mouseover)="active(1)"
+        (mouseleave)="deactivate(1)">
+      <a class="category-title">MEN</a>
+      <ul class="dropdown-menu"
+          [class.active]="activeHeaderNav() === 1">
+        <li [routerLink]="'men/clothing'" class="dropdown-item">Clothing</li>
+        <li [routerLink]="'men/shoes'" class="dropdown-item">Shoes</li>
+        <li [routerLink]="'men/accessories'" class="dropdown-item">Accessories</li>
+      </ul>
+    </li>
+
+    <li class="category"
+        [routerLinkActive]="'active-route'"
+        (mouseover)="active(2)"
+        (mouseleave)="deactivate(2)">
+      <a class="category-title">WOMEN</a>
+      <ul class="dropdown-menu"
+          [class.active]="activeHeaderNav() === 2">
+        <li [routerLink]="'women/clothing'" class="dropdown-item">Clothing</li>
+        <li [routerLink]="'women/shoes'" class="dropdown-item">Shoes</li>
+        <li [routerLink]="'women/accessories'" class="dropdown-item">Accessories</li>
+      </ul>
+    </li>
+
+    <li class="category"
+        [routerLinkActive]="'active-route'"
+        (mouseover)="active(3)"
+        (mouseleave)="deactivate(3)">
+      <a class="category-title">KIDS</a>
+      <ul class="dropdown-menu"
+          [class.active]="activeHeaderNav() === 3">
+        <li class="dropdown-item">Clothing</li>
+        <li class="dropdown-item">Shoes</li>
+        <li class="dropdown-item">Accessories</li>
+        <li class="dropdown-item">Toys</li>
+      </ul>
+    </li>
+    <li (mouseover)="active(4)" (mouseleave)="deactivate(4)" class="category" [routerLinkActive]="'active-route'">ACCESSORIES</li>
+    <li (mouseover)="active(5)" (mouseleave)="deactivate(5)" class="category" [routerLinkActive]="'active-route'">SALE</li>
+  </ul>
+  <ul class="categories-user">
+    <li>
+      <div class="input-field">
+        <input type="text" placeholder="search" maxlength="50">
+      </div>
+    </li>
+    <li class="category"><img [src]="'assets/icons/favorite-icon.svg'" alt="icon"></li>
+    <li class="category"><img [src]="'assets/icons/shopping_bag-icon.svg'" alt="icon"></li>
+    <li class="category"><img [src]="'assets/icons/user-icon.svg'" alt="icon"></li>
+  </ul>
+</div>
+

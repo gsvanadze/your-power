@@ -1,0 +1,43 @@
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 4fr));
+  padding: 16px;
+}
+
+.card {
+  cursor: pointer;
+  position: relative;
+  width: 350px;
+  overflow: hidden;
+  transition: filter 0.3s ease-in-out;
+  filter: brightness(0.9);
+  margin: 20px 20px;
+  user-select: none;
+  border: 1px solid #aca9a9;
+  height: 400px;
+  background-image: url('../../../assets/images/shoe.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  &:hover {
+  }
+
+  .card-text {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 16px;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    text-align: center;
+    font-size: 16px;
+  }
+}
+
+@media(max-width: 768px) {
+  .card-container {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  }
+}
+

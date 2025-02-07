@@ -1,0 +1,7 @@
+.back-img{
+  height: 54rem;
+  background-image: url('../../assets/images/back-photo.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
